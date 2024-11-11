@@ -32,7 +32,7 @@ class Dashboard extends StatelessWidget {
                           (route) => false)
                 },
                 child: Text('Lets Go'),
-                style: ElevatedButton.styleFrom(primary: Colors.amber),
+                style: ElevatedButton.styleFrom(backgroundColor: Colors.amber),
               )
             ]
             )
